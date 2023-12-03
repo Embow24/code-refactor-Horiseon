@@ -1,3 +1,4 @@
+/* GENERAL CSS THAT AFFECTS THE WHOLE PAGE */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* HEADER AND NAVIGATION STYLING */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -46,10 +48,12 @@ a {
     text-decoration: none;
 }
 
+/* SIZING FOR ALL PARAGRAPHS IN THE HTML */
 p {
     font-size: 16px;
 }
 
+/* EMBEDED IMAGE OF FOUR ADULTS AT A DESK */
 figure {
     height: 800px;
     width: 100%;
@@ -59,12 +63,14 @@ figure {
     background-position: center;
 }
 
+/* STYLING FOR THE MAIN ELEMENT */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* POSITIONING FOR IMAGES IN THE MAIN SECTIONS */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -75,6 +81,7 @@ main {
     margin-left: 25px;
 }
 
+/* STYLING FOR SECTIONS INSIDE THE MAIN */
 .customers {
     margin-bottom: 20px;
     padding: 50px;
@@ -93,6 +100,7 @@ main {
     font-size: 36px;
 }
 
+/* STYLING FOR ASIDE AND ITS SECTIONS */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -120,6 +128,7 @@ aside {
     max-width: 150px;
 }
 
+/* STYLING FOR THE FOOTER */
 footer {
     padding: 30px;
     clear: both;
