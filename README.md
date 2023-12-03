@@ -9,9 +9,11 @@ N/A
 ## Usage
 To use this webpage, a navigation bar has been placed at the top of the page with links to the various sections within the page. The main body has three sections in it with information on search engine optimization, online reputation management and social media marketing. Aside from the main section of the page are three sections with information on lead generation, brand awareness and cost management.
 
+Below is a screenshot of the webpage 
+
+   ![screenshot](https://github.com/Embow24/code-refactor-Horiseon/assets/152011792/4066b43f-97c0-4227-9723-42e3e611de50)
+
 To access this webpage follow this link: https://embow24.github.io/code-refactor-Horiseon/
- 
-    ![Horiseon Webpage screenshot](https://github.com/Embow24/code-refactor-Horiseon/blob/main/assets/images/screenshot.png?raw=true)
 
 ## Credits
 N/A
